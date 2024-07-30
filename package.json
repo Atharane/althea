@@ -1,4 +1,5 @@
 {
+  "name": "althea",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
